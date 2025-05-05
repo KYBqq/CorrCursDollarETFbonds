@@ -2,4 +2,4 @@
 
 
 Формат: Jupyterlab.
-Файл: CorrCursDollarETFbonds
+Файл: CorrCursDollarETFbonds.ipynb.
